@@ -7,9 +7,7 @@ description: "Создание, улучшение и аудит скиллов 
 
 Создание и улучшение скиллов и агентов OpenClaw. Лучшие практики + боевой опыт с десятками скиллов и агентов. Агенты: от базового (5 мин) до полноценного рабочего (с памятью, автоулучшением, командой).
 
-**Подробный ресёрч:** `references/research-best-practices.md`
-**Чеклист:** `references/checklist.md`
-**Конкурентный анализ:** `references/competitive-analysis.md`
+**Шаблоны файлов агента:** `references/agent-templates.md`
 
 ---
 
@@ -188,6 +186,8 @@ SKILL.md → SKILL-public.md → убрать личное → аудит пов
 → Только systemPrompt в конфиге группы/топика. Минимум файлов. tools.deny максимальный.
 
 ### Шаг 2. Конфиг (openclaw.json → agents.list[])
+
+Замени `<agent-id>` на id своего агента (латиница, без пробелов, например: `marketer`, `dev-lead`, `coach`).
 
 ```json
 {
